@@ -1,10 +1,10 @@
-package com.x3408.gulimall.member;
+package com.x308.gulimall.gateway;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GulimallMemberApplicationTests {
+class GulimallGatewayApplicationTests {
 
     @Test
     void contextLoads() {
